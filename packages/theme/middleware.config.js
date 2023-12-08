@@ -4,7 +4,7 @@ module.exports = {
       location: '@vue-storefront/prestashop-api/server',
       configuration: {
         api: {
-          url: 'https://ysystem.io'
+          url: 'https://netolinux.com'
         }
       }
     }
